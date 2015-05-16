@@ -3,7 +3,8 @@
     <head>
         <meta charset="utf-8"> <!-- Attribute defining character set in site  -->
         <title>Randy Wittorp | Designer</title>
-        <link rel="stylesheet" href="css/normalize.css"><!--rel = relationship-->
+        <link rel="stylesheet" href="css/normalize.css">
+        <link href='http://fonts.googleapis.com/css?family=Changa+One|Open+Sans:400,400italic,700italic,700,800' rel='stylesheet' type='text/css'>
         <link rel="stylesheet" href="css/main.css">
     </head>
     <body>
@@ -22,7 +23,7 @@
         </header>
         <div id="wrapper">
             <section>
-                <ul>
+                <ul id="gallery">
                     <li>
                         <a href="img/numbers-01.jpg">
                             <img src="img/numbers-01.jpg" alt="">
