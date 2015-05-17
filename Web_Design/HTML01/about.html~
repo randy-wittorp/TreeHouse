@@ -6,6 +6,7 @@
         <link rel="stylesheet" href="css/normalize.css">
         <link href='http://fonts.googleapis.com/css?family=Changa+One|Open+Sans:400,400italic,700italic,700,800' rel='stylesheet' type='text/css'>
         <link rel="stylesheet" href="css/main.css">
+        <link rel="stylesheet" href="css/responsive.css">
     </head>
     <body>
         <header>
@@ -24,6 +25,9 @@
         <div id="wrapper">
             <section>
                 <img src="img/randy.jpg" alt="Photograph of Randy Wittorp" class="profile-photo">
+                <h3>About</h3>
+                <p>Hi, I'm Randy Wittorp.  I'm not sure exactly what else to put here right now.  I enjoy computers and outside.</p>
+                <p>If you'd like to follow me on twitter, my user name is <a href="http://twitter.com/randyswittorp">@randyswittorp</a>.</p>
            </section>
             <footer>
                 <a href="http://twitter.com/randyswittorp">

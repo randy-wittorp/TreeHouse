@@ -21,6 +21,10 @@ img {
     max-width: 100%;
 }
 
+h3 {
+    margin: 0 0 1em 0;
+}
+
 
 
 /**********************************
@@ -203,10 +207,6 @@ nav {
 /*  logo text  */
 h1, h2 {
     color: #fff;
-}
-
-h3 {
-    margin: 0 0 1em 0;
 }
 
 /*  links  */
