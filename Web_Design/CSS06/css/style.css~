@@ -1,0 +1,29 @@
+/* :nth-child Pseudo-classes------------------ */
+
+li:nth-child(3n+0) {
+  background: #52bab3;
+  color: white;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
